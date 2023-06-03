@@ -45,4 +45,4 @@ To get started, download the entire source code and then follow the instructions
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: 
+Project Link: https://shivankk26.github.io/Password-Generator/
