@@ -7,7 +7,7 @@
 
 
 
-In this Project, I've built a WebApp App called Password Generator in which a user can easily create Highly Strong Passwords. It displays Paswords as per the requirement of user.
+In this Project, I've built a WebApp App called Password Generator in which a user can easily create Highly Strong Passwords. It displays Paswords as per the requirement of user. User gets to choose different types of passwords for example- A password with lowercase letters, upercase letters, symbols, numbers, etc. As well as user also gets the leverage to choose that how long the password should be, thereby, making it difficult to guess! 
 
 
 Use the `README.md` to get started.
@@ -35,7 +35,7 @@ To get started, download the entire source code and then follow the instructions
 * Google Fonts Link
 
   ```sh
-      https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap
+      https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap
   ```
 
 
@@ -45,4 +45,4 @@ To get started, download the entire source code and then follow the instructions
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: https://shivankk26.github.io/GitHub-API/
+Project Link: 
